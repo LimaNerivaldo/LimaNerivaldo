@@ -16,10 +16,11 @@ Here are some ideas to get you started:
 -->
 # Olá, me chamo Nerivaldo Lima !
 ## Bem vindo ao meu perfil GitHub 👋
-- 🔭 Atualmente estou trabalhando como motorista de caminhão,poré estou em transição de carreira.
+- 🔭 Atualmente estou trabalhando como motorista de caminhão,porém estou em transição de carreira.
 - 🌱 Atualmente estou aprendendo Front-end e back-end
 - 👯 Estou procurando colaborar com equipe e projetos.
 - 🤔 Estou procurando uma grande oportunidade de trabalho,onde eu possa entrar no mundo da tecnologia.
+- ☎️ (11) 9 9740-3794
   ## Ferramentas e Tecnologias
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40" />
