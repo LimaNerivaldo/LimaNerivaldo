@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 🔭 Atualmente estou trabalhando como motorista de caminhão,porém estou em transição de carreira.
 - 🌱 Atualmente estou aprendendo Front-end e back-end
 - 👯 Estou procurando colaborar com equipe e projetos.
-- 🤔 Estou procurando uma grande oportunidade de trabalho,onde eu possa entrar no mundo da tecnologia.
+- 🤔 Estou procurando uma grande oportunidade de trabalho, pode ser Home office.
 - ☎️ (11) 9 9740-3794
   ## Ferramentas e Tecnologias
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
